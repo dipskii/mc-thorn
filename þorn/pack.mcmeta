@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 9,
+		"description": "Bringing back þorn for Minecraft 1.19"
+	},
+	"language": {
+		"enth_us":	{
+		"name": "English (Þþ)",
+		"region": "United States",
+		"bidirectional": false
+		}
+	}
+}
